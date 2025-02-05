@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/keheira-henderson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCS1HcHdwH-GN100AmzzXKhA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://www.instagram.com/keheirathadev/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instgram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -22,6 +19,9 @@
 - Mobile Developer
 - Researcher at heart
 <!-- - :mailbox:How to reach me: -->
+
+### 🔭 What I'm working on:
+Building out a solid homelab and becoming a Kubernetes SME
 
 ---
 
